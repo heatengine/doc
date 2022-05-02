@@ -153,3 +153,20 @@ Ref: https://dmitripavlutin.com/differences-between-arrow-and-regular-functions/
 ## ES6
 
 - https://www.w3schools.com/js/js_es6.asp
+
+## OOP
+
+- Encapsulation
+- Abstraction
+- Inheritance
+- Polymorphism
+- COMPOSITION
+- OOP with functions
+  - Constructor function / Factory
+  - Objects are function
+  - primitive types are not passed as ref but secondary types (array/boj) are
+  - forin ifin
+  - use let in construction function to make var private for an obj 
+  - use Object.defineProperty() to make private properties accessible readonly
+- Mixin
+-
